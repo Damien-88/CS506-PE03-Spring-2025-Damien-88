@@ -1,0 +1,89 @@
+OpenAI releases image generation in the API
+https://openai.com/index/image-generation-api/
+
+One quantum transition makes light at 21 cm
+https://bigthink.com/starts-with-a-bang/21cm-magic-length/
+
+I wrote to the address in the GPLv2 license notice (2022)
+https://code.mendhak.com/gpl-v2-address-letter/
+
+OpenVSX, which VSCode forks rely on for extensions, down for 24 hours
+https://status.open-vsx.org/
+
+Instant SQL for results as you type in DuckDB UI
+https://motherduck.com/blog/introducing-instant-sql/
+
+Three Fundamental Flaws of SIMD ISAs (2023)
+https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/
+
+On loyalty to Your Employer
+https://www.talentstuff.com/blog/on-loyalty-to-your-employer
+
+Show HN: Lemon Slice Live – Have a video call with a transformer model
+item?id=43785044
+
+NSF director to resign amid grant terminations, job cuts, and controversy
+https://www.science.org/content/article/nsf-director-resign-amid-grant-terminations-job-cuts-and-controversy
+
+A Principled Approach to Querying Data – A Type-Safe Search DSL
+https://www.claudiu-ivan.com/writing/search-dsl
+
+Show HN: Infat – Declaritive application assocation manager for macOS
+https://github.com/philocalyst/infat
+
+Ask HN: Share your AI prompt that stumps every model
+item?id=43782299
+
+Bild AI (YC W25) is hiring a founding engineer in SF
+https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer
+
+Asymmetric Content Moderation in Search Markets: The Case of Adult Websites
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106235
+
+Mark Zuckerberg says social media is over
+https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over
+
+Acquisitions, consolidation, and innovation in AI
+https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation
+
+Show HN: I reverse engineered top websites to build an animated UI library
+https://reverseui.com
+
+A Tour Inside the IBM Z17
+https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f
+
+Show HN: Zev – Remember (or discover) terminal commands
+https://github.com/dtnewman/zev
+
+Creating your own federated microblog
+https://fedify.dev/tutorial/microblog
+
+Three things everyone should know about Vision Transformers
+https://arxiv.org/abs/2203.09795
+
+Assignment 5: Cars and Key Fobs
+https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html
+
+Manufactured consensus on x.com
+https://rook2root.co/articles/20250424-manufacturing-consensus-on-x
+
+Alphabet Q1 2025 Earnings [pdf]
+https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf
+
+Careless People
+https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf
+
+Apple Computers Used to Be Built in the U.S. It Was a Mess
+https://www.nytimes.com/2018/12/15/business/apple-california-manufacturing-history.html
+
+Show HN: I made my own TRMNL e-ink device
+https://www.stavros.io/posts/making-a-trmnl-device/
+
+Show HN: My from-scratch OS kernel that runs DOOM
+https://github.com/UnmappedStack/TacOS
+
+You wouldn't steal a font
+https://fedi.rib.gay/notes/a6xqityngfubsz0f
+
+How much math is knowable? [video]
+https://www.youtube.com/watch?v=VplMHWSZf5c
